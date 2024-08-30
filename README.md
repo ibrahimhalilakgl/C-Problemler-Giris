@@ -2,7 +2,7 @@
 
 Bu proje, temel C programlama becerilerini geliştirmek ve çeşitli matematiksel işlemleri gerçekleştirmek için yazılmış bir dizi C programını ve algoritmasını içermektedir. Her program, belirli bir işlevi yerine getiren ve farklı algoritmaları öğrenmeye yardımcı olan küçük bir görev için tasarlanmıştır.
 
-📑 İçindekiler
+<h1>📑 Problemler</h1>
 
 Verilen Bir Sayının Karesini Hesaplama
 
