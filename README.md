@@ -12,8 +12,8 @@
     
  <h2 style="color: #555;">📑 Problemler</h2>
     <ul style="list-style-type: none; padding: 0;">
-        <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;"><a href="#verilen-bir-sayının-karesini-hesaplama" style="text-decoration: none; color: #333; font-weight: bold;">Verilen Bir Sayının Karesini Hesaplama</a></li>
-        <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;"><a href="#girilen-2-sayının-toplamını-ve-çarpımını-bulma" style="text-decoration: none; color: #333; font-weight: bold;">Girilen 2 Sayının Toplamını ve Çarpımını Bulma</a></li>
+        <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;"><a href="[#verilen-bir-sayının-karesini-hesaplama](https://github.com/ibrahimhalilakgl/C-Problemler-Giris/blob/main/problem1.c)" style="text-decoration: none; color: #333; font-weight: bold;">Verilen Bir Sayının Karesini Hesaplama</a></li>
+        <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;"><a href="#[girilen-2-sayının-toplamını-ve-çarpımını-bulma](https://github.com/ibrahimhalilakgl/C-Problemler-Giris/blob/main/problem2.c)" style="text-decoration: none; color: #333; font-weight: bold;">Girilen 2 Sayının Toplamını ve Çarpımını Bulma</a></li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;"><a href="#y--3x2-fonksiyonunda-y-değerini-bulma" style="text-decoration: none; color: #333; font-weight: bold;">y = 3x^2 Fonksiyonunda y Değerini Bulma</a></li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;"><a href="#dikdörtgenin-alanını-ve-çevresini-hesaplama" style="text-decoration: none; color: #333; font-weight: bold;">Dikdörtgenin Alanını ve Çevresini Hesaplama</a></li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;"><a href="#yarıçapı-verilen-dairenin-alanını-hesaplama" style="text-decoration: none; color: #333; font-weight: bold;">Yarıçapı Verilen Dairenin Alanını Hesaplama</a></li>
