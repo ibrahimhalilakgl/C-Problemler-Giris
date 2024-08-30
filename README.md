@@ -1,4 +1,4 @@
-#Problemler
+Problemler
 1- Verilen Bir Sayının Karesini Hesaplama
 2- Girilen 2 Sayının Toplamını ve Çarpımını Bulma
 3- y = 3x^2 Fonksiyonunda y Değerini Bulma
