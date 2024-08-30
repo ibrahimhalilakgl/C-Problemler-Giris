@@ -7,7 +7,7 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f4f4f5; margin: 0; padding: 20px;">
 
 <div class="container" style="max-width: 800px; margin: auto; background: #fff; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-    <h1 style="color: #333;">🛠️ C Programları Koleksiyonu</h1>
+    <h1 style="color: #333;">🛠️ C Problemler Giriş</h1>
     <p>Bu proje, temel C programlama becerilerini geliştirmek ve çeşitli matematiksel işlemleri gerçekleştirmek için yazılmış bir dizi C programını ve algoritmasını içermektedir. Her program, belirli bir işlevi yerine getiren ve farklı algoritmaları öğrenmeye yardımcı olan küçük bir görev için tasarlanmıştır.</p>
     
  <h2 style="color: #555;">📑 Problemler</h2>
